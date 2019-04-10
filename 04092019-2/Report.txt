@@ -1,0 +1,1 @@
+Practice Core java code and gone through the spark streaming and Kafka intro thereotically.
