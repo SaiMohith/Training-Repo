@@ -1,0 +1,2 @@
+Pracitced some java concepts for few hours and then went through the Mastering Spark for Structured Streaming course
+and learned about the Structured Streaming and DStream using scala 
